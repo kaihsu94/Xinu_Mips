@@ -1,3 +1,5 @@
+#taken for assignment for Embedded Systems Coursework from SUNY_BUFFALO, additional functionalities added by user.
+
 README: basic information about the directory tree and how to build an image.
 Embedded XINU, Copyright (C) 2007.  All rights reserved.
 $Id: README 244 2007-07-13 22:46:44Z phinze $
